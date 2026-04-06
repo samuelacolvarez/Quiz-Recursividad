@@ -1,3 +1,3 @@
-#Quiz recursividad
+##Quiz recursividad
 
-## Valeria Pérez - Samuel Acosta
+- Valeria Pérez - Samuel Acosta
